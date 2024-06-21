@@ -1,9 +1,11 @@
 1. // To create Database
+
    // use demodb
 
   - ![alt text](image.png)
 
 2. // To create and insert data for user
+
 db.users.insertMany([
     {
         user_id: 1,
